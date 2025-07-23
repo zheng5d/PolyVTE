@@ -16,13 +16,8 @@ _"Seeing Through Ambiguity: Effective Video-guided Machine Translation via Chaot
 Polysemous words were embedded in visually grounded contexts (e.g., `"Someone is doing something"`). Examples include:
 [](@replace=1)
 
-| Polysemous Word | Visual Context              | Source Sentence                     | Reference Translation       |
-|-----------------|----------------------------|-------------------------------------|-----------------------------|
-| **address**     | Writing on envelope        | _A woman is writing her address..._ | 一个人正在信封上写下地址。     |
-| **address**     | Public speaking            | _A person in a suit is giving..._   | 一个穿着西装的人正在进行演讲。 |
 
-![Uploading Example.png…]()
-
+<a href="https://www.zupimages.net/viewer.php?id=25/30/z1sz.png"><img src="https://www.zupimages.net/up/25/30/z1sz.png" width="700" height="550" /></a>
 
 ## License
 CC BY-NC-SA 4.0: Non-commercial research use only.
